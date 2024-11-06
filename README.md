@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/any_text-you_like-blue)
+
+
 - 👋 Hi, I’m @yeinous
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
